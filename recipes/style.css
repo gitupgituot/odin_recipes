@@ -1,0 +1,13 @@
+h2 {
+    font-size: 50px;
+    font-weight: 1000;
+}
+li,
+p {
+    font-family: sans-serif;
+    font-size: larger;
+}
+h1 {
+    color: blueviolet;
+    font-size: 70px;
+}
